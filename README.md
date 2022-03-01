@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Olaitan. I'm an entrepreneur and business development professional
-- 👀 I’m interested in software development, data analysis
-- 🌱 I’m currently learning MySQL, JavaScript, Python
+- 👋 Hi, I’m Olaitan. I have a master's degree in Economics and Business Administration as well as a Bachelor's degree in Mathematics & Education
+- 👀 I’m interested in web development, data analysis
+- 🌱 I’m currently developing skills in the areas mentioned above.
 - 💞️ I’m looking to collaborate on different projects for my career and professional development
 - 📫 How to reach me ... email: olaitan.fashanu@gmail.com
 
